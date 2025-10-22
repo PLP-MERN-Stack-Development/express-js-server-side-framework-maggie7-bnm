@@ -1,0 +1,21 @@
+# Express Products API
+
+A RESTful API built with Express.js for managing products with full CRUD operations, authentication, validation, and advanced features.
+
+## 🚀 Features
+
+- RESTful API design
+- CRUD operations for products
+- Authentication with API keys
+- Request validation
+- Error handling
+- Search and filtering
+- Pagination
+- Product statistics
+- Request logging
+
+## 📋 Prerequisites
+
+- Node.js (v18 or higher recommended)
+- npm or yarn
+
